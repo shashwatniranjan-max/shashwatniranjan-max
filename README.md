@@ -9,7 +9,7 @@ struct Developer {
 
 fn main() {
     let me = Developer {
-        name: "[Your Name]",
+        name: "Shashwat Niranjan",
         role: "Full Stack Developer (MERN) & Python Enthusiast",
         focus_areas: ["Node.js", "Express.js", "React", "TypeScript"],
         secondary_interests: ["Python/FastAPI", "Web3"],
