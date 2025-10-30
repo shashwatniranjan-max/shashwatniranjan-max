@@ -1,7 +1,4 @@
-Things I Code With
-Hi there, I'm [Your Name] 👋
-
-I'm a passionate and driven developer, currently on a high-intensity journey to master full-stack web development and contribute to high-impact projects.
+Hi there, I'm Shashwat Niranjan 👋
 ```javascript
 class Developer {
     constructor(name, goal) {
