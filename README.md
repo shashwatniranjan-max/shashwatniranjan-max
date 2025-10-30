@@ -1,4 +1,4 @@
-```javascript
+
 Hi there, I'm Shashwat 👋
 
 I'm a passionate and driven developer, currently on a high-intensity journey to master full-stack web development and contribute to high-impact projects.
