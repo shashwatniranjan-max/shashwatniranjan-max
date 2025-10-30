@@ -1,25 +1,22 @@
-```rust
-struct Developer {
-    name: &'static str,
-    role: &'static str,
-    focus_areas: [&'static str; 4],
-    secondary_interests: [&'static str; 2],
-    current_goal: &'static str
+```javascript
+class Developer {
+    constructor(name, goal) {
+        this.name = name;
+        this.role = "Full Stack Developer (MERN) & Python Enthusiast";
+        this.focusAreas = ["Node.js", "Express.js", "React", "TypeScript"];
+        this.secondaryInterests = ["Python/FastAPI", "Web3"];
+        this.currentGoal = goal;
+    }
+
+    sayHello() {
+        console.log(`Hello, I'm ${this.name}.`);
+        console.log(`I'm a ${this.role} building for the modern web.`);
+        console.log(`My current mission: ${this.currentGoal}.`);
+    }
 }
 
-fn main() {
-    let me = Developer {
-        name: "Shashwat Niranjan",
-        role: "Full Stack Developer (MERN) & Python Enthusiast",
-        focus_areas: ["Node.js", "Express.js", "React", "TypeScript"],
-        secondary_interests: ["Python/FastAPI", "Web3"],
-        current_goal: "Google Summer of Code 2026"
-    };
-
-    println!("Hello, I'm {}.", me.name);
-    println!("I'm a {} building for the modern web.", me.role);
-    println!("My current mission: {}.", me.current_goal);
-}
+const me = new Developer("Shashwat Niranjan", "Google Summer of Code 2026");
+me.sayHello();
 
 
 🚀 I'm currently on an intensive deep-dive into the MERN stack, building a solid foundation from HTTP servers to full-stack applications.
