@@ -17,7 +17,7 @@ class Developer {
     }
 }
 
-const me = new Developer("[Your Name]", "Google Summer of Code 2026");
+const me = new Developer("Shashwat NIranjan", "Google Summer of Code 2026");
 me.sayHello();
 ```
 
