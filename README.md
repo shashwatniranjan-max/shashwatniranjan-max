@@ -28,7 +28,7 @@ me.sayHello();
 🌱 I'm documenting my progress and challenges in my Learning Log repository as I work through my goals.
 
 ♟️ P.S. When I'm not coding, you can usually find me planning my next move in a game of chess.
-<h1>Things i code with :</h1>
+<h3>Things i code with :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,py,fastapi,tailwind,git,github,pandas)](https://skillicons.dev)
 
