@@ -14,6 +14,10 @@
 
 ### 🧑‍💻 About Me
 
+<table>
+  <tr>
+    <td>
+
 ```typescript
 const shashwat = {
     pronouns: "he/him",
@@ -24,12 +28,17 @@ const shashwat = {
 };
 ```
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-
 - 🔭 Currently building **full-stack applications** with the MERN stack
 - 🎯 2026 Goal: Secure a **long-term internship** at an awesome company
 - 🌟 Passionate about **open source** and giving back to the community
 - ♟️ When AFK: Planning my next chess move
+
+</td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+    </td>
+  </tr>
+</table>
 
 ---
 
