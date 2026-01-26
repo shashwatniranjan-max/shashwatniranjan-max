@@ -76,8 +76,8 @@ const shashwat = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashwatniranjan&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatniranjan&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shashwatniranjan-max&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatniranjan-max&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 ---
@@ -86,7 +86,7 @@ const shashwat = {
 
 **💬 Let's connect and build something awesome together!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=shashwatniranjan&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=shashwatniranjan-max&color=blueviolet&style=flat-square)
 
 </div>
 
