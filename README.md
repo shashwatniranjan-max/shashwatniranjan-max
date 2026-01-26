@@ -35,7 +35,7 @@ const shashwat = {
 
 </td>
     <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" />
     </td>
   </tr>
 </table>
