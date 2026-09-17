@@ -28,8 +28,6 @@ const shashwat = {
 };
 ```
 
-- 🔭 Currently building **full-stack applications** with the MERN stack
-- 🎯 2026 Goal: Secure a **long-term internship** at an awesome company
 - 🌟 Passionate about **open source** and giving back to the community
 - ♟️ When AFK: Planning my next chess move
 
